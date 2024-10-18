@@ -1,5 +1,6 @@
+#include "stdafx.hpp"
+
 #include "logging.hpp"
-#include <iostream>
 
 int main(int /*argc*/, char const ** /*args*/)
 {

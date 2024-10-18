@@ -1,3 +1,5 @@
+#include "stdafx.hpp"
+
 #include "logging.hpp"
 
 static std::shared_ptr<spdlog::sinks::sink> get_sink(void)
